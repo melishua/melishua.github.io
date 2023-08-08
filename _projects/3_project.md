@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
+title: Wearable Visual Memory Prothetic for Prosopagnosia​
+description: A computer-centred healthcare system for prosopagnosia patients utilizing machine learning and clinical training. Heads up! This will redirect to my old home page, migration to github page is in progress.
 img: assets/img/7.jpg
-redirect: https://unsplash.com
+redirect: https://zhiyangpan.com/research/
 importance: 3
 category: work
 ---
