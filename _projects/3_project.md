@@ -5,7 +5,7 @@ description: A computer-centred healthcare system for prosopagnosia patients uti
 img: assets/img/wearable_project.jpg
 redirect: https://zhiyangpan.com/wearable_prosopagnosia/
 importance: 2
-category: work
+category: research
 related_publications: 9283058
 ---
 

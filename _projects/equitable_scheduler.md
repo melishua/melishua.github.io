@@ -4,7 +4,7 @@ title: Equitable ML-Powered Resource Scheduler
 description: active project working in progress
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: research
 ---
 
 Problem Statement:
