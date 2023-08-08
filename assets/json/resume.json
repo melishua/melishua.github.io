@@ -1,11 +1,12 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Melissa Pan",
+    "label": "Software Engineer",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
+    "email": "zhiyangp@andrew.cmu.edu",
+    "phone": "",
+    "url": "https://melishua.github.io/",
+    "linkedin": "https://www.linkedin.com/in/zhiyang-pan-melissa/",
     "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
       "address": "2712 Broadway St",
@@ -16,46 +17,112 @@
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "zhiyang-pan-melissa",
+        "url": "https://www.linkedin.com/in/zhiyang-pan-melissa/"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "name": "Google",
+      "position": "Software Engineering Intern",
+      "url": "https://about.google/",
+      "startDate": "2023-05-15",
+      "endDate": "2023-08-18",
+      "summary": "Research + Software Development project on Tensorflow DTensor GPU collective clustering optimization.",
       "highlights": [
-        "Relativity"
+        "GPU", "MLSYS: machine learning system", "MLIR"
+      ]
+    },
+    {
+      "name": "IBM",
+      "position": "Software Development Engineer",
+      "url": "https://www.ibm.com/us-en",
+      "startDate": "2020-05-15",
+      "endDate": "2022-12-29",
+      "summary": "DB2 core engine backup+restore+recovery team, full-time SDE.",
+      "highlights": [
+        "Distributed Database Replication", "Database System", "Patent Proposal"
+      ]
+    },
+    {
+      "name": "BeenThere (Harvard Innovation Lab)",
+      "position": "Software Engineer + Team Lead",
+      "url": "",
+      "startDate": "2020-06",
+      "endDate": "2020-09",
+      "summary": "Backend development and project management for harvard student startup.",
+      "highlights": [
+        "Backend Development", "Project Managment"
+      ]
+    },{
+      "name": "University of Toronto, Professor Steve Mann",
+      "position": "Research Student",
+      "url": "https://mannlab.com/",
+      "startDate": "2019-08-10",
+      "endDate": "2020-10-11",
+      "summary": "Original research to solve social hardship for prosopagnosia with machine learning and human computer interaction. https://ieeexplore.ieee.org/document/9283058",
+      "highlights": [
+        "Wearable Computing", "Face Recognition", "Android Development", "System Design", "Assistive Device"
+      ]
+    },
+    {
+      "name": "IBM",
+      "position": "Software Development Engineer (Professional Experience Year)",
+      "url": "https://www.ibm.com/us-en",
+      "startDate": "2018-05-04",
+      "endDate": "2019-09-16",
+      "summary": "DB2 core engine backup+restore+recovery team.",
+      "highlights": [
+        "Database System", "New Data Structure"
       ]
     }
   ],
   "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "",
+      "institution": "Carnegie Mellon University, Pittsburgh, PA, United States",
+      "url": "https://www.cmu.edu/",
+      "area": "Computer Engineering",
+      "studyType": "MS: Master of Science",
+      "startDate": "2023-01-18",
+      "endDate": "2024-06-01",
+      "score": "4.0/4.0",
       "courses": [
-        "Theory of Relativity"
+        "GPA: 4.0/4.0",
+        "18-748: Modern Data Center Computing",
+        "15-619: Cloud Computing",
+        "18-613: Computer Systems"
+      ]
+    },
+    {
+      "institution": "University of Toronto, Toronto, Canada",
+      "url": "https://www.utoronto.ca",
+      "area": "Computer Engineering",
+      "studyType": "BS: Bachelor of Applied Science",
+      "startDate": "2015-09-08",
+      "endDate": "2020-06-01",
+      "coreScore": "3.83/4.0",
+      "courses": [
+        "Core GPA: 3.83/4.0",
+        "Engineering Business Minor",
+        "AI Certificate"
       ]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Judges' Choice Best Project Award",
+      "date": "2021",
+      "awarder": "IBM Canada",
+      "summary": "Jumpstart program for new grad on system design."
+    },
+    {
+      "title": "Faculty of Engineering Dean’s Honored List",
+      "date": "2015 - 2020",
+      "awarder": "University of Toronto Department of Electrical and Computer Engineering",
+      "summary": ""
     }
   ],
   "certificates": [],
@@ -63,11 +130,15 @@
   "skills": [],
   "languages": [
     {
-      "language": "German",
+      "language": "English",
       "fluency": "Native speaker"
     },
     {
-      "language": "English",
+      "language": "Mandarin",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Cantonese",
       "fluency": "Fluent"
     }
   ],

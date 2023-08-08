@@ -1,9 +1,9 @@
 ---
 layout: cv
 permalink: /cv/
-title: cv
+title: resume
 nav: true
 nav_order: 4
-cv_pdf: example_pdf.pdf
-description: This is a description of the page. You can modify it in 'pages/_cv.md'. You can also change or remove the top pdf download button.
+cv_pdf: resume.pdf
+description: Resume last updated on Aug 2023. Please refer to <a href='https://www.linkedin.com/in/zhiyang-pan-melissa/'>my LinkedIn Page</a> or the resume pdf for detail descriptions. 
 ---
