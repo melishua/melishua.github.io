@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.
+description: Most coursework related project repository are set to private due to academic integrity requirement to prevent violations. Please contact me if you would like to view the repository.
 nav: true
 nav_order: 3
 ---
