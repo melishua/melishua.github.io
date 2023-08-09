@@ -1,11 +1,12 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: Wearable Visual Memory Prothetic for Prosopagnosia​
+description: A computer-centred healthcare system for prosopagnosia patients utilizing machine learning and clinical training. Heads up! This will redirect to my old home page, migration to github page is in progress.
+img: assets/img/wearable_project.jpg
+redirect: https://zhiyangpan.com/wearable_prosopagnosia/
 importance: 3
 category: research
-giscus_comments: true
+related_publications: 9283058
 ---
 
 Every project has a beautiful feature showcase page.
