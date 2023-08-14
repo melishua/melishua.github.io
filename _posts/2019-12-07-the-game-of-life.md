@@ -3,7 +3,7 @@
  title: The Game of Life
  date: 2019-12-07 11:59:00-0400
  description: Self-reflection on what does toy means for me in life?
- tags: life self-reflection inner peace
+ tags: life self-reflection inner-peace
  categories: life
  giscus_comments: false
  related_posts: false
