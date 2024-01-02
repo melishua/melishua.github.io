@@ -426,3 +426,10 @@ jsonresume:
   - languages
   - interests
   - references
+
+
+header_pages:
+  - About
+  - CV
+  - Projects
+  - Blog

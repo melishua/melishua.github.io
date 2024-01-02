@@ -7,7 +7,7 @@
     "phone": "",
     "url": "https://melishua.github.io/",
     "linkedin": "https://www.linkedin.com/in/zhiyang-pan-melissa/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "summary": "I am a software engineer with a passion for building scalable and reliable systems. I am currently a Master of Science student at Carnegie Mellon University, majoring in Computer Engineering. I am interested in distributed systems, cloud computing, and machine learning. I am also a strong advocate for diversity and inclusion in the tech.",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -117,6 +117,12 @@
       "date": "2021",
       "awarder": "IBM Canada",
       "summary": "Jumpstart program for new grad on system design."
+    },
+    {
+      "title": "Distinctive Caption Project Award",
+      "date": "2020",
+      "awarder": "University of Toronto Department of Electrical and Computer Engineering",
+      "summary": ""
     },
     {
       "title": "Faculty of Engineering Dean’s Honored List",
