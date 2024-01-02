@@ -9,6 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
+    <p>melissapan[at]cmu[dot]com</p>
+    <p><a href="https://melishua.github.io/assets/pdf/cv.pdf">Curriculum Vitae</a></p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
