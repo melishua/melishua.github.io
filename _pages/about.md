@@ -18,11 +18,17 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello there! nice to meet you and welcome to my page. I am a software engineer, a master student at Carnegie Mellon University, and a curious human being. I have been always inspired by ideas coming from different subjects. And I hope to apply my knowledge in software engineering to challenges in various fields. 
+Hello there! nice to e-meet you and welcome to my page. 
 
-I am interested in **machine learning systems**, **distributed systems**, and **hyper-scale computing**.
+I am a ECE master student at Carnegie Mellon University, a software engineer,  and a curious human being. I have been always inspired by ideas coming from different subjects. And I hope to apply my knowledge in software engineering to challenges in various fields.
 
-I love to understand how our universe works and I believe that we are in the process of developing such tool that would help us better understand the truth of this universe.
+Currently, I am working on research in introducing sustainability as the first order optimization objective into large-scale datacenter systems advised by Professor Akshitha Sriraman <a href="https://users.ece.cmu.edu/~asrirama/">Akshitha Sriraman</a> for my Master's research track program. My research interests also broadly include **machine learning systems**, **distributed systems**, and **hyper-scale computing**.
+
+I graduated from the University of Toronto in 2020 with a bacholer degree in Computer Engineering. At UofT, I was fortunate enough to be advised by Professor Steve Mann on wearables for prosopagnosia.
+
+In between my academic pursue, I worked as a software engineer for ~3years at IBM on Db2 database core engine system development, specifically relating to database availability features: backup, restore and recovery.
+
+I love to understand how our universe works and I believe that we are in the process of developing such tool that would help us better understand the truth of this universe. Thus we need efficent and robus systems to do so!
 
 Solving puzzles is one of my favourite activities throughout my life. I love finding answers to unknowns and possibilities to the world.
 
