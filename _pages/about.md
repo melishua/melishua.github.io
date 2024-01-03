@@ -24,7 +24,7 @@ I am a ECE master student at Carnegie Mellon University, a software engineer,  a
 
 Currently, I am working on research in introducing sustainability as the first order optimization objective into large-scale datacenter systems advised by Professor Akshitha Sriraman <a href="https://users.ece.cmu.edu/~asrirama/">Akshitha Sriraman</a> for my Master's research track program. My research interests also broadly include **machine learning systems**, **distributed systems**, and **hyper-scale computing**.
 
-I graduated from the University of Toronto in 2020 with a bacholer degree in Computer Engineering. At UofT, I was fortunate enough to be advised by Professor Steve Mann on wearables for prosopagnosia.
+I graduated from the University of Toronto in 2020 with a bacholer degree in Computer Engineering. At UofT, I was fortunate enough to be advised by Professor <a href="https://www.ece.utoronto.ca/people/mann-s/">Steve Mann</a>  on wearables for prosopagnosia.
 
 In between my academic pursue, I worked as a software engineer for ~3years at IBM on Db2 database core engine system development, specifically relating to database availability features: backup, restore and recovery.
 
