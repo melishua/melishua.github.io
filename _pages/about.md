@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: CMU | SDE | ex-Google |  ex-IBM | UofT
+subtitle: CMU | SDE | ex-Googler |  ex-IBMer | UofT
 
 profile:
   align: right
@@ -30,12 +30,20 @@ In between my academic pursue, I worked as a software engineer for ~3years at IB
 
 I love to understand how our universe works and I believe that we are in the process of developing such tool that would help us better understand the truth of this universe. Thus we need efficent and robus systems to do so!
 
-Solving puzzles is one of my favourite activities throughout my life. I love finding answers to unknowns and possibilities to the world.
+Solving puzzles is one of my favourite activities throughout my life. I love finding answers to unknowns and possibilities to the world. 🧩🌍
+<br>
+### Research interests:
+* Data center systems
+* Machine learning systems
+* Sustainable computing
+* Software-hardware co-design
 
-Fun Facts:
+<br>
+### Fun Facts:
 * I love latte ☕️ And I learn how to make latte this summer 2023.
 * I trained my dog for all six level of certifications available at PetSmart 🐶 
 * I finally try out bouldering this year (2023), and I fall for it! The goal for 2024 is to be able to climb v4 route 💪🧗
 * I love escape room - being on leaderboard of 3 rooms (Revoescape - Bunker: AI's Martyrdom, Dream Escape - The Abduction, Omescape - Robotcalypse) in Toronto (as of summer 2022)
 
+<br>
 last update: Dec 2023
