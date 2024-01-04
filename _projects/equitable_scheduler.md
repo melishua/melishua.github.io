@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Equitable ML-Powered Resource Scheduler 
-description: Research course project
+description: CMU Research course project
 img: assets/img/equitable_cover.jpg
 importance: 2
 category: research
