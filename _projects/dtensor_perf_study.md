@@ -3,7 +3,7 @@ layout: page
 title: TF DTensor LM training with collective optimization on GPU
 description: Research project at Google - A performance study on BERT and T5 training using TF DTensor on GPU.
 img: assets/img/gpu_cover_img.jpeg
-importance: 1
+importance: 2
 category: research
 giscus_comments: true
 ---

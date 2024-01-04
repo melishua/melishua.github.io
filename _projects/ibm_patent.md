@@ -4,7 +4,7 @@ title: Method and System of Redaction of Sensitive Enterprise-Wide Data
 description: Patent proposal at IBM.
 img: assets/img/9.jpg
 redirect: https://priorart.ip.com/IPCOM/00270088D
-importance: 3
+importance: 4
 category: work
 ---
 

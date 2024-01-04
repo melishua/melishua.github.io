@@ -4,7 +4,7 @@ title: Ranked-based Setup and Execution of Federated Learning
 description: Patent proposal at IBM.
 img: assets/img/federated_learning.png
 redirect: https://priorart.ip.com/IPCOM/00270087D
-importance: 3
+importance: 4
 category: work
 ---
 
